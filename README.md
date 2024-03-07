@@ -2,7 +2,7 @@
 
 ## Overview
 
-# Overview
+
 
 This project entailed a comprehensive analysis and predictive modeling of drivers’ data, over 4GB in size, from multiple sources. The main objective was to forecast the likelihood of claim initiation among drivers, a key insight for insurance companies. Leveraging the power of Python for data extraction and transformation, we were able to collate and preprocess the data effectively.
 
